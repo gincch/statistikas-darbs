@@ -1,0 +1,2 @@
+# statistikas-darbs
+Bakalaura dabrs
